@@ -3,7 +3,7 @@
 #
 FROM alpine:3.11
 
-LABEL maintainer='Pierre GINDRAUD <pgindraud@gmail.com>'
+LABEL maintainer='Deeco <deeco@gmail.com>'
 
 ARG POSTFIX_USERNAME
 ARG POSTFIX_PASSWORD
