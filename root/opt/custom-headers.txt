@@ -1,2 +1,2 @@
-X-SES-SOURCE-ARN: arn:aws:ses:eu-west-1:720325261698:identity/leaseplan.com
-X-SES-FROM-ARN: arn:aws:ses:eu-west-1:720325261698:identity/leaseplan.com
+X-SES-SOURCE-ARN: arn:aws:ses:eu-west-1:$env:identity/leaseplan.com
+X-SES-FROM-ARN: arn:aws:ses:eu-west-1:$env:identity/leaseplan.com
